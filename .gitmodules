@@ -1,0 +1,6 @@
+[submodule "asd"]
+	path = asd
+	url = https://github.com/Junhua-Liao/LR-ASD.git
+[submodule "ai-podcast-clipper-backend/asd"]
+	path = ai-podcast-clipper-backend/asd
+	url = https://github.com/Junhua-Liao/LR-ASD.git
